@@ -4,13 +4,13 @@ I would like to show my skills throughout this website.
 
 ## Programming languages used
 
-For the beginning of the website I'll use mostly html and a little bit of css
-Then I'll add more information and upgrade the css
-I'll learn Javascript to add more special effects in my website
+For the beginning of the website I'll use mostly html and a little bit of css.
+Then I'll add more information and upgrade the css.
+I'll learn Javascript to add more special effects in my website.
 
 ### Techniques
 
-I will use animation, transitions, effects, parallax
+I will use animation, transitions, effects, parallax.
 
 ## Theme of the website
 
