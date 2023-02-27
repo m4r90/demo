@@ -16,3 +16,6 @@ I will use animation, transitions, effects, parallax.
 
 The website will be about DnD, Dungeons and Dragons. I play this role play game sometimes and know a few things about it. I find it very interesting and I know that choosing this topic is one of the best ideas to show my skills. Mainly because it's a fantastic game which gives room to a lot of imagination.
 
+## Sources
+
+https://support.dmsguild.com/hc/fr/articles/217520927-Questions-sur-la-propri%C3%A9t%C3%A9-intellectuelle-et-la-licence-d-utilisation-licence-ludique-libre-OGL-
